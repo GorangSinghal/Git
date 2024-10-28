@@ -1,0 +1,1 @@
+# Git is way of life
